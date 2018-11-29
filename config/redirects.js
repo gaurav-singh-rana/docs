@@ -1985,16 +1985,15 @@ module.exports = [
      from: '/hooks/cli',
      to: '/hooks'
    },
-   {
-     from: '',
-     to: ''
-   }
   //  {
   //    from: '/metadata/lock',
   //    to: '/users/guides/manage-user-metadata'
   //  }
+  {
     from: '/hooks/dashboard/create-delete',
     to: '/hooks/guides/create-delete-hooks-using-dashboard'
+  },
+  {
     from: '/hooks/cli/create-delete',
     to: '/hooks/guides/create-delete-hooks-using-cli'
   },
