@@ -1967,7 +1967,7 @@ module.exports = [
    },
    {
      from: '/hooks/cli/create-delete',
-     to: '/hooks/guides/create-delete-hooks-using-cli'
+     to: '/hooks/guides/create-hooks-using-cli'
    },
    {
      from: '/hooks/cli/edit',
@@ -1987,11 +1987,11 @@ module.exports = [
    },
    {
      from: '/hooks/dashboard/create-delete',
-     to: '/hooks/guides/create-delete-hooks-using-dashboard'
+     to: '/hooks/guides/create-hooks-using-dashboard'
    },
    {
     from: '/hooks/cli/create-delete',
-    to: '/hooks/guides/create-delete-hooks-using-cli'
+    to: '/hooks/guides/create-hooks-using-cli'
    },
    {
     from: '/hooks/cli/edit',
@@ -2011,7 +2011,7 @@ module.exports = [
    },
    {
     from: '/hooks/dashboard/create-delete',
-    to: '/hooks/guides/create-delete-hooks-using-dashboard'
+    to: '/hooks/guides/create-hooks-using-dashboard'
    },
    {
     from: '/hooks/dashboard/edit',
