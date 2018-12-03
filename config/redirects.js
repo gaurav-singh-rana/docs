@@ -2023,7 +2023,7 @@ module.exports = [
    },
    {
     from: '/hooks/dashboard/index',
-    to: '/hooks/concepts/overview-hooks'
+    to: '/hooks/concepts/overview'
   },
    {
     from: '/hooks/extensibility-points/credentials-exchange',
@@ -2043,11 +2043,11 @@ module.exports = [
    },
    {
     from: '/hooks',
-    to: '/hooks/concepts/overview-hooks'
+    to: '/hooks/concepts/overview'
    },
    {
     from: '/hooks/overview',
-    to: '/hooks/concepts/overview-hooks'
+    to: '/hooks/concepts/overview'
    }
 ];
 
